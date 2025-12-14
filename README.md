@@ -7,7 +7,7 @@ It shows how regression models can suffer from **underfitting** (too simple), **
 - Apply Ridge regularization to improve generalization.
 - Visualize model performance with plots.
 
-## 🛠️ Technologies Used
+# Technologies Used
 - Python 3.12  
 - NumPy  
 - Matplotlib  
